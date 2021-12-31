@@ -1,0 +1,22 @@
+.bio{
+  font-size: 1.4em;
+  padding-top: 40px;
+  padding-left: 460px;
+  background-color: #00D2E9;
+  color : #1D0086;
+  overflow: auto;
+  height: 450px;
+}
+
+.projs{
+  position: sticky;
+  padding-left: 20px;
+  font-size: 1.8em;
+}
+
+button{
+  border-radius: 10%;
+  font-size: 20px;
+  background-color: white;
+  color: black;
+}

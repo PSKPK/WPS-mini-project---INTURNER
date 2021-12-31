@@ -1,0 +1,27 @@
+.uppad{
+  color : white;
+  background-color: blue;
+  padding-bottom: 20px;
+  padding-bottom: 20px;
+  font-size: 140px;
+  font-family: sans-serif;
+}
+
+.loginbox{
+  font-size: 40px;
+  padding-top: 120px;
+}
+
+input,select{
+  font-size: 20px;
+}
+
+button{
+  font-size: 30px;
+}
+
+.newacc{
+  position: absolute;
+  right: 60px;
+  font-size: 2em;
+}
